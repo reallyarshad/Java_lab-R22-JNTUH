@@ -1,0 +1,7 @@
+Name, Age, City
+Arshad Ahmed, 24, Hyd
+Jane Smith, 30, Los Angeles
+Bob Johnson, 28, Delhi
+Alice Brown, 22, San Francisco
+Charlie Davis, 35, Miami
+Eva Wilson, 27, Seattle
